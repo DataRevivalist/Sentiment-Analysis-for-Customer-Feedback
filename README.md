@@ -1,4 +1,4 @@
-### ShopEase Europe - Sentiment Analysis for Customer Feedback
+# ShopEase Europe - Sentiment Analysis for Customer Feedback
 > **Automated sentiment classification and insight generation from real Amazon customer reviews**.
 
 \---
