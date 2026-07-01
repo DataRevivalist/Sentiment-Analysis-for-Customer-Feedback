@@ -1,0 +1,10 @@
+[
+  {
+    "date": "2024-09-17",
+    "model": "LogisticRegression",
+    "f1_weighted": 0.8841,
+    "accuracy": 0.8827,
+    "n_reviews": 20406,
+    "negative_rate": 0.6938
+  }
+]
