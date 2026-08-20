@@ -1,3 +1,1 @@
-All figures are saved automatically when the notebooks are run.
-The ShopEase_Methodology_Justification.docx documents the reasoning
-behind every tool, library, and model choice in the project.
+All figures are automatically saved when the notebooks are run, except for the dashboard figures, which were captured as screenshots.
