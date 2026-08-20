@@ -117,8 +117,8 @@ shopease-sentiment-analysis/
 │       └── tokenizer files
 │
 ├── reports/
-│   ├── figures/                                # All charts and visualisations saved from notebooks
-│   └── ShopEase_Methodology_Justification.docx
+│   ├── figures/                                # All figures are automatically saved when the notebooks are run, except for the dashboard figures, which were captured as screenshots.
+│   └── Sentiment Analysis Dashboard.pbix
 │
 ├── src/
 │   ├── __init__.py
