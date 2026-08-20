@@ -146,7 +146,7 @@ shopease-sentiment-analysis/
 | Week 1 | 05 | Exploratory data analysis: sentiment, geography, time trends, word clouds, n-grams |
 | Week 1 | 06 | Sentiment driver discovery: topic modelling and complaint theme identification |
 | Week 2 | 07, 09 | Classical NLP modelling, SHAP, LIME, Bi-LSTM explainability |
-| Week 2 | 08, 10, 11 | Transformer model, summarisation dashboard, deployment and monitoring |
+| Week 2 | 08, 10, 11 | Transformer model, summarisation dashboard, deployment and monitoring, PowerBI Dashboard |
 
 ---
 
